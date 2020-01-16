@@ -10,7 +10,7 @@
       version - version of this plugin. Required. Must match <version> in plugin.xml
     -->
     <plugin id="com.dangbei.plugin.mvp"
-            url="https://github.com/wangjingyang/plugin/blob/master/android_studio_mvp_plugin/android-studio-mvp-plugin-1.0.0-SNAPSHOT.jar?raw=true"
+            url="https://raw.githubusercontent.com/wangjingyang/plugin/master/android_studio_mvp_plugin/android-studio-mvp-plugin-1.0.0-SNAPSHOT.jar"
             version="1.0.0-SNAPSHOT">
         <!--
           The <idea-version> element must match the same element in plugin.xml. Required.
